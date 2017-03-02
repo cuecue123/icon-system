@@ -1,0 +1,17 @@
+	body{
+		background-color: black;
+
+	}
+	p{
+		margin:0;
+		font-size: 3em;
+		color: aqua;
+	}
+
+	svg.elements{
+		 fill: white;
+		 		/* inherit from the parent color*/
+		 width: 1em;
+		 height: 1em;
+		 		/*line up nicely, 100% percent in the context I'm in, change accordingly*/
+	}
